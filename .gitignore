@@ -83,4 +83,5 @@ evals/release/test-runs/
 evals/turn-completion/test-runs/
 evals/llm-with-backend/test-runs/
 !buildTools
+!.woodpecker
 
